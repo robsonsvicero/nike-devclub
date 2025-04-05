@@ -13,5 +13,5 @@ function mudarVisual(cor, imagem) {
 
     // Depois de trocar a imagem, inicia o fade-in
     tenis.style.opacity = 1;
-  }, 300); // 500ms é o mesmo tempo da transição definida no CSS
+  }, 500); // 500ms é o mesmo tempo da transição definida no CSS
 }
