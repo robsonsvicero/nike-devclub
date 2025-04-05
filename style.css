@@ -69,6 +69,8 @@ p {
 .imagem-tenis {
   width: 800px;
   transform: rotate(-25deg);
+  transition: opacity 0.3s ease;
+  opacity: 1;
 }
 
 .caixa-principal {
